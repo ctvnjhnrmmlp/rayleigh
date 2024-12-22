@@ -1,0 +1,30 @@
+{
+	"name": "rayleigh",
+	"displayName": "Rayleigh",
+	"description": "",
+	"version": "0.0.1",
+	"pricing": "Free",
+	"publisher": "rayleigh",
+	"author": {
+		"name": "rayleigh"
+	},
+	"engines": {
+		"vscode": "^1.96.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Rayleigh",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Rayleigh-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctvnjhnrmmlp/rayleigh"
+	}
+}
